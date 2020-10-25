@@ -14,6 +14,7 @@
     <DebugType>none</DebugType>
     <DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Calla_Site' " />
   <ItemGroup>
     <Compile Remove="scripts\lib\signalr\node_modules\**" />
     <Content Remove="scripts\lib\signalr\node_modules\**" />

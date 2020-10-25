@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calla-Site", "Calla-Site.csproj", "{A682474F-E91A-4239-A016-D69730100AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682474F-E91A-4239-A016-D69730100AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682474F-E91A-4239-A016-D69730100AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682474F-E91A-4239-A016-D69730100AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682474F-E91A-4239-A016-D69730100AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

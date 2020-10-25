@@ -5,5 +5,4 @@ services:
         image: nginx:alpine
         volumes:
             - ./js:/usr/share/nginx/html
-        command: sh /usr/share/nginx/html/entrypoint.sh 
-
+        command: sh /usr/share/nginx/html/entrypoint.sh
